@@ -35,3 +35,8 @@ pip install flask flask-bcrypt portalocker
 
 Run using:
 python auth_service.py
+
+<img width="873" height="429" alt="image" src="https://github.com/user-attachments/assets/5ed9a652-b501-4e83-9486-2f4c501ba18f" />
+
+Communication Ground Rules: 
+Our primary mode of communication will be Teams. If needed, we will also use Canvas discussions for assignment-specific discussions. Each team member is expected to respond to messages within 12 hours to maintain workflow efficiency. Most communication will be asynchronous, but if a live discussion is needed, we will coordinate a time that works for all members.
